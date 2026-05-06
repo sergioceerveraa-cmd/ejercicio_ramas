@@ -4,4 +4,8 @@ Bobesponja23
 =======
 Bobesponjas
 >>>>>>> 5adc767b6385e1a0d9161fc1b8871059de21cc1c
+<<<<<<< HEAD
 Spiderman
+=======
+El sentido de la vida
+>>>>>>> a6ed529 (Añadir El sentido de la vida)
