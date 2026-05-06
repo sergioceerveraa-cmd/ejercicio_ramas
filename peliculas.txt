@@ -1,2 +1,6 @@
 La vida de Sergio
+<<<<<<< HEAD
 Bobesponja23
+=======
+Bobesponjas
+>>>>>>> 5adc767b6385e1a0d9161fc1b8871059de21cc1c
